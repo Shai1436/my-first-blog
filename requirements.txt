@@ -52,7 +52,7 @@ pytest-django==3.1.2
 pytest==3.0.7
 python-dateutil==2.6.0    # via botocore, freezegun, icalendar, py-trello
 pytz==2016.10             # via icalendar, py-trello
-PyYAML==3.12              # via vcrpy
+PyYAML==5.4              # via vcrpy
 requests-oauthlib==0.8.0  # via py-trello
 requests==2.13.0
 rsa==3.4.2                # via oauth2client
