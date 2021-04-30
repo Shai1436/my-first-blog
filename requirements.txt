@@ -55,7 +55,7 @@ pytz==2016.10             # via icalendar, py-trello
 PyYAML==3.12              # via vcrpy
 requests-oauthlib==0.8.0  # via py-trello
 requests==2.13.0
-rsa==3.4.2                # via oauth2client
+rsa==4.7                # via oauth2client
 s3transfer==0.1.10        # via boto3
 six==1.10.0               # via django-click, freezegun, google-api-python-client, mock, oauth2client, packaging, python-dateutil, setuptools, vcrpy
 slacker==0.9.42
