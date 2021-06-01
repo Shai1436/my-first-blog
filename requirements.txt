@@ -60,7 +60,7 @@ s3transfer==0.1.10        # via boto3
 six==1.10.0               # via django-click, freezegun, google-api-python-client, mock, oauth2client, packaging, python-dateutil, setuptools, vcrpy
 slacker==0.9.42
 uritemplate==3.0.0        # via google-api-python-client
-urllib3==1.20             # via opbeat
+urllib3==1.26.5             # via opbeat
 vcrpy==1.10.5
 whitenoise==3.3.0
 wrapt==1.10.10            # via vcrpy
