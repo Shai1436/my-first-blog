@@ -30,7 +30,7 @@ httplib2==0.10.3
 icalendar==3.11.3
 jmespath==0.9.2           # via boto3, botocore
 lxml==3.7.3
-markdown2==2.3.3          # via django-markdown-deux
+markdown2==2.4.0          # via django-markdown-deux
 mock==2.0.0
 multidict==2.1.4          # via yarl
 oauth2client==4.0.0       # via google-api-python-client
